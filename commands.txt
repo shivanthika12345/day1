@@ -1,0 +1,3 @@
+ git add server_check_ping.pl
+ git commit -m "one site ping check"
+ git push -u origin master
